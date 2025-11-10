@@ -73,10 +73,11 @@ com.mycompany.reporting — reuse the bean to normalise temperature values befor
 com.mycompany.devices — use the bean in an IoT/sensor integration module to convert sensor readings into a canonical unit for storage and analysis.
 
 # IMAGES
-![APPLET](ComponentP\Temp_Applet.png)
+<!-- Use forward slashes and paths relative to this README file. README is already inside the ComponentP folder, so reference images directly. -->
+![APPLET](Temp_Applet.png)
 
-![bean](ComponentP\Temp_Bean.png)
+![Bean](Temp_Bean.png)
 
-![EJB](ComponentP\Temp_EJB.png)
+![EJB](Temp_EJB.png)
 
-![GUI](ComponentP\Temp_GUI.png)
+![GUI](Temp_GUI.png)
